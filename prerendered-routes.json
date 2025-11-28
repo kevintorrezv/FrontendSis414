@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/FrontendSis414": {},
+    "/FrontendSis414/contactos": {},
+    "/FrontendSis414/escobas": {},
+    "/FrontendSis414/fabricantes": {},
+    "/FrontendSis414/producto": {}
+  }
+}
